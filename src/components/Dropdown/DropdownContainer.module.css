@@ -1,0 +1,29 @@
+.row {
+  margin: 0px 20px !important;
+  padding: 8px;
+  border-width: 1px 0px 1px 0px;
+  border-style: solid;
+  border-color: #c2c2c2;
+}
+
+.colMain {
+  padding: 0px !important;
+  display: flex;
+}
+
+.col {
+  padding: 0px !important;
+}
+
+.select {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.mauto {
+  margin: auto;
+}
+
+.fbold {
+  font-weight: 600;
+}
